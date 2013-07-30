@@ -2,6 +2,7 @@ PriMore
 =======
 
 Gathering multiple spool out to one PDF for PrimoPDF version 4
+
 Copyright and original program by komikoni ( http://blog.goo.ne.jp/komikoni/e/361ece1070b0e8ed054e6c5946dd0448 )
 
 
@@ -18,7 +19,9 @@ Install
 
 How to use
 ==========
+
 Just print using PrimoPDF printer spooler. 
+
 Please wait to push "Create PDF" button until you output all document to PrimoPDF printer spooler.
 
 
